@@ -42,7 +42,6 @@ Projects will appear here as they become real.
 > **Make the next change safer, easier, and less costly.**
 
 <p>
-  <a href="https://www.linkedin.com/in/menezescleiton/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/menezescleiton/">LinkedIn</a> ·
+  <a href="https://menezescleiton.github.io">Portfolio / case studies</a>
 </p>
-
-<!-- Add the portfolio link after https://menezescleiton.github.io is published and validated. -->
