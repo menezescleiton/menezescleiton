@@ -42,6 +42,6 @@ Projects will appear here as they become real.
 > **Make the next change safer, easier, and less costly.**
 
 <p>
-  <a href="https://www.linkedin.com/in/menezescleiton/"><img src="assets/linkedin.svg" width="16" height="16" alt="" /> LinkedIn</a><span aria-hidden="true"> · </span>
+  <a href="https://www.linkedin.com/in/menezescleiton/"><img src="assets/linkedin.svg" width="16" height="16" alt="" /> LinkedIn</a>
   <a href="https://menezescleiton.github.io"><img src="assets/portfolio.svg" width="16" height="16" alt="" /> Portfolio / case studies</a>
 </p>
