@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg">
-  <img alt="Cleiton Menezes — Software Engineer focused on Software Evolution. A diagram traces uncertainty toward safer change." src="assets/profile-header-light.svg">
-</picture>
+# Cleiton Menezes
 
 ## About
 
@@ -37,11 +33,9 @@ This is a new profile taking shape around engineering experiments, architectural
 
 Projects will appear here as they become real.
 
----
-
 > **Make the next change safer, easier, and less costly.**
 
-<p>
-  <a href="https://www.linkedin.com/in/menezescleiton/"><img src="assets/linkedin.svg" width="16" height="16" alt="" /> LinkedIn</a>
-  <a href="https://menezescleiton.github.io"><img src="assets/portfolio.svg" width="16" height="16" alt="" /> Portfolio / case studies</a>
-</p>
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/menezescleiton/)
+- [Portfolio / case studies](https://menezescleiton.github.io)
